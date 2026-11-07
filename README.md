@@ -98,5 +98,5 @@ the layout says.
 
 The app is free and works fully without paying. If it helps you, you can buy me a coffee:
 
-<p align="center"><img src="assets/support-qr.png" width="240" alt="VietQR code for MB Bank, account 388388338888, TRUONG GIA BAO" /></p>
-<p align="center"><sub>VietQR · MB Bank · 388388338888 · TRUONG GIA BAO</sub></p>
+<p align="center"><img src="assets/donate-qr-clean.png" width="240" alt="Donation QR code for MoMo and Vietnamese banking apps" /></p>
+<p align="center"><sub>Scan with MoMo or a Vietnamese banking app · Quét bằng MoMo hoặc ứng dụng ngân hàng</sub></p>
